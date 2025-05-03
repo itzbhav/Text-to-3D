@@ -1,4 +1,3 @@
-# Text-to-3D
 # Text-to-3D Model Generator (Prototype)
 
 ## 📌 Overview
