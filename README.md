@@ -27,6 +27,4 @@ User Prompt ──> Shap-E (text300M model)
     Transmitter Model + Virtual Cameras
                 ↓
       Rendered Image + Mesh (.obj/.ply)
-## Output
-![3D-OUTPUT](3D-OUTPUT.png)
 
